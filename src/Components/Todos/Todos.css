@@ -1,0 +1,40 @@
+.h {
+    margin-top:5%;
+    margin-bottom: -55px;
+    margin-left: 1%;
+    font-weight: bold;
+}
+.tab {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 1%;
+  background-color:white;
+  
+}
+.th {
+  border-collapse: separate;
+  width: 5px;
+}
+.bt {
+  padding: 1px 1px;
+  text-align: center;
+  
+}
+.inp {
+  margin-left: 375px;
+ margin-top:5%;
+ margin-bottom: -90px;
+ border-radius: 30px;
+}
+
+
+.bt {
+  padding: 1px 1px;
+  text-align: center;
+  
+}
+
+.tab1{
+  width: 50%;
+  position: relative;
+}
